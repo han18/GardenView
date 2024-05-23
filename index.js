@@ -1,2 +1,2 @@
-import dotenv from "dotenv";
-dotenv.config();
+import "./localEnv.js";
+import express from "express"; // connecting BD
